@@ -1,3 +1,6 @@
+<h1 align="center">👩‍💻 Laura Helena</h1>
+<h3 align="center">Estudante de Desenvolvimento de Sistemas</h3>
+
 # 👋 Olá! Eu sou a LauraHelena93!
 
 🎯 Em transição de carreira para a área de *Desenvolvimento de Sistemas*  
