@@ -40,9 +40,7 @@ Gosto de aprender coisas novas, resolver problemas e transformar ideias em soluÃ
 
 ## ðŸ“« Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/laura-santosh)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lauragarcez88@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/laura-santosh) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lauragarcez88@gmail.com)
 
 ---
 
