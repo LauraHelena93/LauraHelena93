@@ -1,3 +1,13 @@
+<div align="center">
+
+# 👩‍💻 Laura Helena
+
+### Estudante de Desenvolvimento de Sistemas
+
+🎯 Em transição de carreira para Desenvolvimento de Sistemas  
+💻 Interessada em programação, tecnologia e soluções digitais
+
+</div>
 <h1 align="center">👩‍💻 Laura Helena</h1>
 <h3 align="center">Estudante de Desenvolvimento de Sistemas</h3>
 <p align="center">
