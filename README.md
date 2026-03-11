@@ -8,12 +8,6 @@
 💻 Interessada em programação, tecnologia e soluções digitais
 
 </div>
-<h1 align="center">👩‍💻 Laura Helena</h1>
-<h3 align="center">Estudante de Desenvolvimento de Sistemas</h3>
-<p align="center">
-🎯 Em transição de carreira para a área de <i>Desenvolvimento de Sistemas</i><br>
-💻 Interessada em <i>programação, tecnologia e soluções digitais</i>
-</p>
 
 ---
 
