@@ -6,8 +6,6 @@
 🎯 Em transição de carreira para a área de <i>Desenvolvimento de Sistemas</i><br>
 💻 Interessada em <i>programação, tecnologia e soluções digitais</i>
 </p>
-🎯 Em transição de carreira para a área de *Desenvolvimento de Sistemas*   
-💻 Interessada em *programação, tecnologia e soluções digitais*  
 
 ---
 
