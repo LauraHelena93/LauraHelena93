@@ -8,7 +8,7 @@
 🎯 Em transição de carreira para Desenvolvimento de Sistemas  
 💻 Interessada em programação, tecnologia e soluções digitais
 
-
+</div>
 
 ---
 
